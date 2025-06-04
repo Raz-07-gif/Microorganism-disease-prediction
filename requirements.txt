@@ -5,5 +5,5 @@ opencv-python
 pillow
 werkzeug
 gunicorn
-mysql
+mysql-connector-python
 pandas

@@ -1,5 +1,9 @@
 Flask
 tensorflow
-opencv-python
 numpy
+opencv-python
 pillow
+werkzeug
+gunicorn
+mysql
+pandas
